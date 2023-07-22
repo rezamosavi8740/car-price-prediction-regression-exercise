@@ -1,1 +1,1 @@
-# -car-price-prediction
+This is a simple regression exercise. In this repository, I tried to write a regression model for the first machine learning code. This model is a simple linear model that is trained on a simple house price dataset.
